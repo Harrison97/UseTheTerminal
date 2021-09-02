@@ -30,4 +30,5 @@
 * `dd` cut file(s) or folder(s)
 * `pp` Paste file(s) or folder(s)
 * `a` Rename a file
+* `:mkdir testFolder` Create a folder called "testFolder"
 
