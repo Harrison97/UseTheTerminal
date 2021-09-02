@@ -21,6 +21,7 @@
 * `git add .` Stage all files in the current repo for change to be commited
 * `git commit -m "Commit message that will be saved in the log"` Commit(AKA Save) stage changes
 * `git push` push local repo with new commits to the remote repo in github
+* `git log` View the git log. This conatins all the commit history.
 
 # Ranger commands
 * `zh` Show hidden files
