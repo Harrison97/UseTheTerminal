@@ -17,6 +17,7 @@
 * `rm -rf testFolder` Remove the folder called "testFolder" and everything in it
 
 # Git commands
+* `git status` View the status of your current project.
 * `git add file.txt` Stage the specific file "file.txt" for a change to be commited
 * `git add .` Stage all files in the current repo for change to be commited
 * `git commit -m "Commit message that will be saved in the log"` Commit(AKA Save) stage changes
