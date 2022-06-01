@@ -23,6 +23,8 @@
 * `git commit -m "Commit message that will be saved in the log"` Commit(AKA Save) stage changes
 * `git push` push local repo with new commits to the remote repo in github
 * `git log` View the git log. This conatins all the commit history.
+* `git pull` Pull the latest changes of the remote branch.
+* `git pull --reabse` Pull the latest changes of the remote branch, and rebase your new changes ontop of the new changes in the remote branch. This will help resolve merge conflicts.
 
 # Ranger commands
 * `zh` Show hidden files
